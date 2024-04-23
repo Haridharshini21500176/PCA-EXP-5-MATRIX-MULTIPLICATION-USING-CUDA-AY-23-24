@@ -204,8 +204,8 @@ int main()
 ```
 
 ## OUTPUT:
-![output1](./O1PCA.png)
-![output1](./O2PCA.png)
+![output1](./O1PCA.jpeg)
+![output1](./O2PCA.jpeg)
 
 ## RESULT:
 Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000211 sec and host took 0.000216 sec.
